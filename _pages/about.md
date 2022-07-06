@@ -2,9 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Assistant Professor of <a href='https://stat.fsu.edu'>Statistics</a>. Florida State University.
-
-          Assistant Professor (courtesy) of <a href='https://med.fsu.edu/biosci/home'>Biomedical Sciences</a>. Florida State University.
+subtitle: Assistant Professor of <a href='https://stat.fsu.edu'>Statistics</a> and <a href='https://med.fsu.edu/biosci/home'>Biomedical Sciences</a> (courtesy). Florida State University.
 
 profile:
   align: right
