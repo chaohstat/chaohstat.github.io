@@ -2,7 +2,9 @@
 layout: about
 title: about
 permalink: /
-subtitle: Assistant Professor of <a href='https://stat.fsu.edu'>Statistics</a>. Florida State University.
+subtitle: >
+<p>Assistant Professor of <a href='https://stat.fsu.edu'>Statistics</a>. Florida State University.</p>
+<p>Assistant Professor (courtesy) of <a href='https://med.fsu.edu/biosci/home'>Biomedical Sciences</a>. Florida State University.</p>
 
 profile:
   align: right
