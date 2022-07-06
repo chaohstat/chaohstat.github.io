@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Assistant Professor of <a href='https://stat.fsu.edu'>Statistics</a>. Florida State University.
 
 profile:
   align: right
